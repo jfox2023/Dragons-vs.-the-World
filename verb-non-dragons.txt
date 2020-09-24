@@ -1,0 +1,6 @@
+stab
+slash
+kill
+un-alive
+remove air from
+remove blood from
